@@ -151,16 +151,25 @@ div{
     font-weight: normal;
 }
 
+#source-sans h3{
+    font-family: 'Source Code Pro', sans-serif;
+}
 #source-sans p{
     font-family: 'Source Code Pro', sans-serif;
     font-size: 16px;
+}
+
+#nunito-sans h3{
+    font-family: 'Nunito Sans', sans-serif;
 }
 
 #nunito-sans p{
     font-family: 'Nunito Sans', sans-serif;
     font-size: 16px;
 }
-
+#poppins h3{
+    font-family: 'Poppins', sans-serif;
+}
 #poppins p{
     font-family: 'Poppins', sans-serif;
     font-size: 16px;
